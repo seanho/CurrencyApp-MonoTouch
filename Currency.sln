@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Currency", "Currency\Currency.csproj", "{B8D30AF4-D9B0-4495-AFA5-921C6675C7AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CurrencyTests", "CurrencyTests\CurrencyTests.csproj", "{3874F3C6-6BFF-4F9B-872C-2402CED1F2EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+		Ad-Hoc|iPhone = Ad-Hoc|iPhone
+		AppStore|iPhone = AppStore|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3874F3C6-6BFF-4F9B-872C-2402CED1F2EE}.Ad-Hoc|iPhone.ActiveCfg = Ad-Hoc|iPhone
+		{3874F3C6-6BFF-4F9B-872C-2402CED1F2EE}.Ad-Hoc|iPhone.Build.0 = Ad-Hoc|iPhone
+		{3874F3C6-6BFF-4F9B-872C-2402CED1F2EE}.AppStore|iPhone.ActiveCfg = AppStore|iPhone
+		{3874F3C6-6BFF-4F9B-872C-2402CED1F2EE}.AppStore|iPhone.Build.0 = AppStore|iPhone
+		{3874F3C6-6BFF-4F9B-872C-2402CED1F2EE}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{3874F3C6-6BFF-4F9B-872C-2402CED1F2EE}.Debug|iPhone.Build.0 = Debug|iPhone
+		{3874F3C6-6BFF-4F9B-872C-2402CED1F2EE}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{3874F3C6-6BFF-4F9B-872C-2402CED1F2EE}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{3874F3C6-6BFF-4F9B-872C-2402CED1F2EE}.Release|iPhone.ActiveCfg = Release|iPhone
+		{3874F3C6-6BFF-4F9B-872C-2402CED1F2EE}.Release|iPhone.Build.0 = Release|iPhone
+		{3874F3C6-6BFF-4F9B-872C-2402CED1F2EE}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{3874F3C6-6BFF-4F9B-872C-2402CED1F2EE}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{B8D30AF4-D9B0-4495-AFA5-921C6675C7AB}.Ad-Hoc|iPhone.ActiveCfg = Ad-Hoc|iPhone
+		{B8D30AF4-D9B0-4495-AFA5-921C6675C7AB}.Ad-Hoc|iPhone.Build.0 = Ad-Hoc|iPhone
+		{B8D30AF4-D9B0-4495-AFA5-921C6675C7AB}.AppStore|iPhone.ActiveCfg = AppStore|iPhone
+		{B8D30AF4-D9B0-4495-AFA5-921C6675C7AB}.AppStore|iPhone.Build.0 = AppStore|iPhone
+		{B8D30AF4-D9B0-4495-AFA5-921C6675C7AB}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{B8D30AF4-D9B0-4495-AFA5-921C6675C7AB}.Debug|iPhone.Build.0 = Debug|iPhone
+		{B8D30AF4-D9B0-4495-AFA5-921C6675C7AB}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{B8D30AF4-D9B0-4495-AFA5-921C6675C7AB}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{B8D30AF4-D9B0-4495-AFA5-921C6675C7AB}.Release|iPhone.ActiveCfg = Release|iPhone
+		{B8D30AF4-D9B0-4495-AFA5-921C6675C7AB}.Release|iPhone.Build.0 = Release|iPhone
+		{B8D30AF4-D9B0-4495-AFA5-921C6675C7AB}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{B8D30AF4-D9B0-4495-AFA5-921C6675C7AB}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Currency\Currency.csproj
+	EndGlobalSection
+EndGlobal
